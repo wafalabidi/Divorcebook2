@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "432269956782",
+    "firebase_url": "https://divorce-4c9ae.firebaseio.com",
+    "project_id": "divorce-4c9ae",
+    "storage_bucket": "divorce-4c9ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432269956782:android:0d9083c703e0e30a",
+        "android_client_info": {
+          "package_name": "com.labidi.wafa.divorcebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432269956782-dqog1i7fhaa4s5f6qipbmnsapsplf7s1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.labidi.wafa.divorcebook",
+            "certificate_hash": "bf6a49bb1966e952f028e43740790cf25034ce9a"
+          }
+        },
+        {
+          "client_id": "432269956782-5tmaia9p1qk8738t0ehuigt0v9ckols2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMIny3bQgkZNHVzqbHQ6HvB1UN_cqQMTI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432269956782-5tmaia9p1qk8738t0ehuigt0v9ckols2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
